@@ -1,0 +1,18 @@
+[
+	{
+		"year": "2017",
+		"value": [
+			{ "title" : "Year to end", "subtitle" : "Aug - Oct", "value" : "£100,000" },
+			{ "title" : "Projected", "subtitle" : "Nov - Jul", "value" : "£400,000" },
+			{ "title" : "Total", "subtitle" : "Year to end + Projected", "value" : "£500,000" }
+		]
+	},
+	{
+		"year": "2016",
+		"value": [
+			{ "title" : "Year to end", "subtitle":  "Aug - Oct", "value" : "£300,000" },
+			{ "title" : "Projected", "subtitle" : "Nov - Jul", "value" : "£600,000" },
+			{ "title" : "Total", "subtitle" : "Year to end + Projected", "value" : "£900,000" }
+		]
+	}
+]

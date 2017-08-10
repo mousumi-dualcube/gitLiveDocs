@@ -1,0 +1,11 @@
+[
+  { "name": "buttons", "type" : "product", "imagePath" : "app/images/search.png", "href":"#", "title": "Buttons", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit", "version": "V1", "date": "27.01.17" },
+  { "name": "formElements", "type" : "product", "imagePath": "app/images/input.png", "href":"#", "title": "Form elements", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit", "version": "V1", "date": "27.01.17" },
+  { "name": "images", "type" : "product", "imagePath": "app/images/placeholder.png", "href":"#", "title": "Images", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit", "version": "V1", "date": "27.01.17" },
+  { "name": "feedback", "type" : "feature", "imagePath": "app/images/feedback.png", "href":"#", "title": "Feedback", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit", "version": "V1", "date": "27.01.17" },
+  { "name": "typography", "type" : "feature", "imagePath": "app/images/typography.png", "href":"#", "title": "Typography", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit", "version": "V1", "date": "27.01.17" },
+  { "name": "iconography", "type" : "feature", "imagePath": "app/images/iconography.png", "href":"#", "title": "Iconography", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit", "version": "V1", "date": "27.01.17" },
+  { "name": "link", "type" : "template", "imagePath": "app/images/link.png", "href":"#", "title": "Link", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit", "version": "V1", "date": "27.01.17" },
+  { "name": "popover", "type" : "template", "imagePath": "app/images/popover.png", "href":"#", "title": "Popover", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit", "version": "V1", "date": "27.01.17" },
+  { "name": "modal", "type" : "template",  "imagePath": "app/images/modal.png", "href" :"#", "title": "Modal", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit", "version": "V1", "date": "27.01.17" }
+]

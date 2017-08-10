@@ -1,0 +1,22 @@
+[
+	{
+		"year": "2017",
+		"value": [
+			{ "month": "Aug", "data": 0.08167},
+			{ "month": "Sep", "data": 0.11492},
+			{ "month": "Oct", "data": 0.42782},
+			{ "month": "Nov", "data": 0.94253},
+			{ "month": "Dec", "data": 0.62702}
+		]
+	},
+	{
+		"year": "2016",
+		"value": [
+			{ "month": "Aug", "data": 0.05167},
+			{ "month": "Sep", "data": 0.31492},
+			{ "month": "Oct", "data": 0.12782},
+			{ "month": "Nov", "data": 0.54253},
+			{ "month": "Dec", "data": 0.92702}
+		]
+	}
+]

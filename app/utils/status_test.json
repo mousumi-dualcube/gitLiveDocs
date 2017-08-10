@@ -1,0 +1,16 @@
+[
+	{
+		"year": "2017",
+		"value": [
+			{ "count":112, "desc": "Active learners with no email address", "url" : "#"},
+			{ "count":50, "desc": "Learners on closed programmes with open aims", "url" : "#" }
+		]
+	},
+	{
+		"year": "2016",
+		"value": [
+			{ "count":225, "desc": "Active learners with no email address", "url" : "#" },
+			{ "count":11, "desc": "Learners on closed programmes with open aims", "url" : "#" }
+		]
+	}
+]
